@@ -1,0 +1,5 @@
+Dev: 
+    Physics	                                    PH
+    Chemistry	                                CY
+    Mathematics	                                MA
+    Computer Science & Information Technology	CS
